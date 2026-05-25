@@ -1,1 +1,1 @@
-![GhostEye Utility](Img/Utility.PNG)
+![GhostEye](Img/Utility.PNG)
