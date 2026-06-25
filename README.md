@@ -1,7 +1,7 @@
 ![GhostEye](Img/Utility.PNG)
 
 >[!TIP]
->**Установка**
+># Установка
 >
 >Для работы утилиты установите зависимости:
 >pip install -r requirements.txt
