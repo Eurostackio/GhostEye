@@ -10,6 +10,7 @@
 ```bash
 git clone https://github.com/Eurostackio/GhostEye.git
 cd GhostEye
+```
 
 2. Установка зависимостей
 Установите все необходимые библиотеки одной командой:
